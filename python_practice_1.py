@@ -1,0 +1,1 @@
+print("Volodymyr Mishchenia, IPZ-6")
